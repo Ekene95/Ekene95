@@ -32,13 +32,13 @@ Security Scanning (SAST / SCA / Secrets)
 
 ## NetShield Research
 
-**netshield-reachability**  
+**netshield-analyzer** [![GitHub](https://img.shields.io/badge/-View_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/Netshield-Enterprise/netshield-analyzer)  
 Static analysis engine determining if vulnerable dependencies are actually reachable.
 
-**netshield-images**  
+**secops-base-images** [![Docker](https://img.shields.io/badge/-View_on_Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/kenzman)  
 Minimal hardened container runtimes with zero critical CVEs.
 
-**netshield-secrets**  
+**netshield-action** [![GitHub](https://img.shields.io/badge/-View_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/Netshield-Enterprise/netshield-action)  
 High-fidelity secret detection pipeline with contextual filtering.
 
 ---
